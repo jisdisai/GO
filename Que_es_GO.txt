@@ -1,0 +1,22 @@
+Que es Go ?
+
+-- Es el lenguaje de programacion Open Source Creado por Google
+-- Fue creado para resolver problemas internos de Google y luego escalo al universo de desarrollo
+-- Es un lenguaje seguro por su fuerte tipado que ayuda a evitar errores
+-- Es un Lenguaje que Hereda su Core de c++ aunque su sintaxis es mejorada y amigable
+-- Go fue pensado para aprovechar los ultimos avances de hardware, los multiprocesadors, enorme cantida de memoria y el paralelismo
+-- Go es un lenguaje compilado generando archivos .exe portables a cualquier sistema operativo 
+-- Go demostro ser el lenguaje ideal para grandes desarrollos
+
+Conveciones en Go
+
+-- Go es facil de entender, su sintaxis es clara y mejorada con respeto a otros lenguajes 
+-- En Go no hace falta usar " ; " 
+-- El compilador arroja advertencias, ante variables declaradas no utilizadas, y paquetes importados no utilizados
+-- Las funciones en Go pueden devolver mas de un valor 
+-- Se puede desarrollar en Go tanto intrucciones sincronicas como asincronicas
+-- solo existe la intruccion For para iteraciones(no existe While, ni el Dowhile)
+-- Go es un lenguaje orientado a objetos
+-- El scope de variables, metodos y funciones se determina con nombres en mayusculas y minusculas 
+
+
